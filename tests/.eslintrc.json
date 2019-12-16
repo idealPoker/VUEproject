@@ -1,0 +1,14 @@
+{
+  "env": {
+    "jest": true,
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "react/prop-types": "off",
+    "react/prefer-stateless-function": "off"
+  },
+  "globals": {
+    "normalizeHTMLString": true
+  }
+}
